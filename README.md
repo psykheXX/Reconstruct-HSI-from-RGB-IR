@@ -41,4 +41,4 @@ We adopted **MST++**—an efficient multi-stage spectral-wise transformer—for 
 
 For implementation details, see the original code base here: [MST++ GitHub](https://github.com/caiyuanhao1998/MST-plus-plus).
 
-** It is worth noting that due to the limited training scenarios, this is a hyperspectral reconstruction solution specifically for crop canopies, not a general reconstruction solution.
+**It is worth noting that due to the limited training scenarios, this is a hyperspectral reconstruction solution specifically for crop canopies, not a general reconstruction solution.**
