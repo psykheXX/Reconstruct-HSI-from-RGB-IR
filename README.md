@@ -15,7 +15,13 @@ In this project, we used **RGB** and **near-infrared (IR)** images to generate h
 - **Code:** All data-processing scripts are provided in this repository.
 
   The RGB/IR composite image is as follows：
-![img1](./img/RGBIR1.png) ![img2](img/RGBIR2.png) ![img1](img/RGBIR3.png)
+  <!-- RGB/IR 4-channel -->
+  <p align="center">
+    <img src="./img/RGBIR1.png" width="32%" />
+    <img src="./img/RGBIR2.png" width="32%" />
+    <img src="./img/RGBIR3.png" width="32%" />
+  </p>
+
 The reconstructed results and the original HSI are detailed in the folder ![img](./img)
 
 ## Model
