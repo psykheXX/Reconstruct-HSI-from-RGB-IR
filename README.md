@@ -13,6 +13,7 @@ In this project, we used **RGB** and **near-infrared (IR)** images to generate h
   4. **Storage:** Each 4-channel sample was saved as a **`.png`** file for efficient training.
 
 - **Code:** All data-processing scripts are provided in this repository.
+- ** Spectral response curve of camera** For generating RGB images from hyperspectral images, we used the spectral response curve of Nikon 700D. The response curve file can be downloaded from here [nikon 700D](https://github.com/butcherg/ssf-data/tree/master/Nikon/D700/camspec)
 
   The RGB/IR composite image is as follows：
   <!-- RGB/IR 4-channel -->
